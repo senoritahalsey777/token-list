@@ -3435,6 +3435,15 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://tokens.pancakeswap.finance/images/0x6985884C4392D348587B19cb9eAAf157F13271cd.png"
+    },
+    {
+      "chainId": 56,
+      "address": "0xAB95Fe46fdC6A3A5A51bcaa725Da132084D192Cd",
+      "symbol": "GTM",
+      "name": "Gas To The Moon",
+      "decimals": 18,
+      "logoURI": "https://gastothemoon.org/assets/logo/GTM_TOKEN.png"
     }
+
   ]
 }
